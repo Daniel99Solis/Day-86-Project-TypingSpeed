@@ -1,0 +1,9 @@
+Color Pallet to use in the App
+# https://colorhunt.co/palette/6499e99eddffa6f6ffbefff7
+
+API that returns random words
+# https://random-word-api.vercel.app/
+
+Create a TextArea with scroll attach to it
+# https://stackoverflow.com/questions/13832720/how-to-attach-a-scrollbar-to-a-text-widget
+
